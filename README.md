@@ -8,9 +8,12 @@
 
 
 
-- 🔭 I’m interested in Full stack Web Application development, C++
+- 🔭 I’m interested in Full stack Web Application development, C++, Machine Learning
 <!-- - 🌱 I’m currently learning Java script -->
 - 📫 How to reach me: yoshith1996@gmail.com 
+---
+C++     Java   Python   Javascript   HTML   CSS   Matlab   Git   SVN 
+
 ---
 
 📫 Where ,you can find me :wink::<br>
