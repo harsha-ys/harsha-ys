@@ -1,7 +1,7 @@
 ### Hi there, I am Yoshith Sri Harshana 👋
 <!-- ![]("https://drive.google.com/file/d/1gF5DWHTWYVMdgAEyivSB-ra70yBWJtGA/view?usp=sharing") -->
 
-<img src="images/yoshith1.png" />
+<!-- <img src="images/yoshith1.png" /> -->
 
  ---
  I'm a creative, collaborative, energetic and hardworking person who is eager to learn new skills. Final year undergraduate in field of computer engineering.
