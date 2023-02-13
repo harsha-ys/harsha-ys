@@ -12,7 +12,7 @@
 <!-- - 🌱 I’m currently learning Java script -->
 - 📫 How to reach me: yoshith1996@gmail.com 
 ---
-C++     Java   Python   Javascript   HTML   CSS   Matlab   Git   SVN 
+Java   C++    Python   Javascript   HTML   CSS   Matlab   Git   SVN 
 
 ---
 
