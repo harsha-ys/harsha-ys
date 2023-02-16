@@ -13,7 +13,7 @@
 - 📫 How to reach me: yoshith1996@gmail.com 
 ---
 
-<h3>Java  C++    Python   Javascript   HTML   CSS   Nodejs   Expressjs   Matlab   Git   SVN </h3> 
+<h3>Java  C++    Python   Javascript   HTML   CSS   Nodejs   Expressjs SQL  Matlab   Git   SVN </h3> 
 
 ---
 
