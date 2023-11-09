@@ -4,8 +4,9 @@
 <!-- <img src="images/yoshith1.png" /> -->
 
  ---
- I'm a creative, collaborative, energetic and hardworking person who is eager to learn new skills. Graduate in field of computer engineering.
- Software Engineer at Enactor
+ I'm a creative, collaborative, energetic and hardworking person who is eager to learn new skills. Graduate in field of computer engineering.   
+ Software Engineer at Enactor.   
+ Former Trainee Software Engineer at LiveRoom
 
 
 
