@@ -4,11 +4,12 @@
 <!-- <img src="images/yoshith1.png" /> -->
 
  ---
- I'm a creative, collaborative, energetic and hardworking person who is eager to learn new skills. Final year undergraduate in field of computer engineering.
+ I'm a creative, collaborative, energetic and hardworking person who is eager to learn new skills. Graduate in field of computer engineering.
+ Software Engineer at Enactor
 
 
 
-- 🔭 I’m interested in Full stack Web Application Development, Software Development, C++, Machine Learning
+- 🔭 I’m interested in Full stack Web Application Development, Software Development, JAVA, C++, Machine Learning
 <!-- - 🌱 I’m currently learning Java script -->
 - 📫 How to reach me: yoshith1996@gmail.com 
 ---
